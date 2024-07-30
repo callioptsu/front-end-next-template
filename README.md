@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/callioptsu/front-end-template) 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/callioptsu/front-end-template.svg)](https://github.com/callioptsu/front-end-template)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/callioptsu/front-end-next-template) 
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/callioptsu/front-end-next-template.svg)](https://github.com/callioptsu/front-end-next-template)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
